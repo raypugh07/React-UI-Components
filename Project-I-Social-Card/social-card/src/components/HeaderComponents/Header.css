@@ -1,1 +1,33 @@
 /* All styles for your header Components live here */
+
+
+.title{
+  /* border:solid red;*/
+    display:flex;
+    width:100%;
+    
+   
+}
+
+
+.header{
+   /* border:solid blue;*/
+    display:flex;
+    
+    
+}
+
+.twitter{
+   /* border:solid red;*/
+    padding-top:15px;
+    margin-left:10px;
+    color:gray;
+
+}
+
+.content{
+   /* border:solid blue;*/
+    margin-left:130px;
+
+   
+}

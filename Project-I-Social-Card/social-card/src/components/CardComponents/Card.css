@@ -1,1 +1,14 @@
 /* All styles for your Card Components live here */
+.carda{
+    text-decoration: none;
+    color:black;
+}
+
+.card{
+    padding-left:130px;
+}
+
+
+.banner{
+    width:100%;
+}
