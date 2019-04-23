@@ -1,7 +1,8 @@
 .container{
-    border:1px gray;
+
+    
     width:400px;
-    margin:auto;
+    margin:40px auto;
    
 }
 
@@ -13,6 +14,7 @@
     flex-direction: row-reverse;
     padding:10px 10px 10px 10px;
     font-size: 1.8rem;
+    height:80px;
     
     
 }
@@ -21,6 +23,6 @@
 .calcrow{
     display:flex;
     justify-content: flex-end;
-    height:50px;
+    height:80px;
 }
 
