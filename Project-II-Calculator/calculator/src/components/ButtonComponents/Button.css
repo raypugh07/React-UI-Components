@@ -1,0 +1,35 @@
+.number{
+    background:gray;
+    color:white;
+    display:flex;
+    justify-content: center;
+    width:25%;
+    font-size: 1.8rem;
+}
+
+.numbzero{
+    background:gray;
+    color:white;
+    display:flex;
+    justify-content: center;
+    width:75%;
+    font-size: 1.8rem;
+
+}
+
+.clear{
+    background:gray;
+    color:white;
+    display:flex;
+    justify-content: center;
+    width:75%;
+    font-size: 1.8rem;
+}
+
+.function{
+    background:maroon;
+    color:white;
+    justify-content: center;
+    width:25%;
+    font-size: 1.8rem;
+}

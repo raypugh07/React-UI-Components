@@ -1,0 +1,26 @@
+.container{
+    border:1px gray;
+    width:400px;
+    margin:auto;
+   
+}
+
+
+.zero{
+    background:black;
+    color:white;
+    display:flex;
+    flex-direction: row-reverse;
+    padding:10px 10px 10px 10px;
+    font-size: 1.8rem;
+    
+    
+}
+
+
+.calcrow{
+    display:flex;
+    justify-content: flex-end;
+    height:50px;
+}
+
