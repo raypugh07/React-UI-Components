@@ -1,0 +1,28 @@
+.container{
+
+    
+    width:400px;
+    margin:40px auto;
+   
+}
+
+
+.zero{
+    background:black;
+    color:white;
+    display:flex;
+    flex-direction: row-reverse;
+    padding:10px 10px 10px 10px;
+    font-size: 1.8rem;
+    height:80px;
+    
+    
+}
+
+
+.calcrow{
+    display:flex;
+    justify-content: flex-end;
+    height:80px;
+}
+
